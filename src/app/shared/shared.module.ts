@@ -11,6 +11,5 @@ import { ExampleAComponent } from './example-a/example-a.component';
     ExampleAComponent
   ],
   exports: [ExampleAComponent]
-
 })
 export class SharedModule { }
