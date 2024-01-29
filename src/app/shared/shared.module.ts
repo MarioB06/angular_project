@@ -7,8 +7,7 @@ import { ExampleAComponent } from './example-a/example-a.component';
 @NgModule({
   declarations: [ExampleAComponent],
   imports: [
-    CommonModule,
-    ExampleAComponent
+    CommonModule
   ],
   exports: [ExampleAComponent]
 })
